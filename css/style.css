@@ -1,0 +1,30 @@
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+  .nav {
+    display: flex;
+    background-color: rgb(184, 177, 177);
+    padding: 20px;
+   justify-content: center;
+  }
+
+
+  .left, .center, .right {
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color:rgb(184, 177, 177);
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
